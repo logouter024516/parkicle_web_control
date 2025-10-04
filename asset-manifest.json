@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/parkicle_web_control/static/css/main.7d22a2a4.css",
-    "main.js": "/parkicle_web_control/static/js/main.b56062c7.js",
+    "main.js": "/parkicle_web_control/static/js/main.d99bd059.js",
     "static/js/453.99e22610.chunk.js": "/parkicle_web_control/static/js/453.99e22610.chunk.js",
     "index.html": "/parkicle_web_control/index.html",
     "main.7d22a2a4.css.map": "/parkicle_web_control/static/css/main.7d22a2a4.css.map",
-    "main.b56062c7.js.map": "/parkicle_web_control/static/js/main.b56062c7.js.map",
+    "main.d99bd059.js.map": "/parkicle_web_control/static/js/main.d99bd059.js.map",
     "453.99e22610.chunk.js.map": "/parkicle_web_control/static/js/453.99e22610.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7d22a2a4.css",
-    "static/js/main.b56062c7.js"
+    "static/js/main.d99bd059.js"
   ]
 }
